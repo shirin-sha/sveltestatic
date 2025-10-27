@@ -1,0 +1,144 @@
+/* Custom Styling for Font Awesome Icons to Match icomoon Style */
+
+/* Service Two Icons (Services Page) */
+.service-two__single-icon i.fas,
+.service-two__single-icon i.fa {
+    color: var(--thm-primary);
+    font-size: 60px;
+    line-height: 1;
+    transition: all 0.3s ease;
+    display: inline-block;
+}
+
+.service-two__single:hover .service-two__single-icon i.fas,
+.service-two__single:hover .service-two__single-icon i.fa {
+    color: var(--thm-white);
+}
+
+/* Feature One Icons (Features Section) */
+.feauture-one__single-bottom .icon-box i.fas,
+.feauture-one__single-bottom .icon-box i.fa {
+    color: var(--thm-primary);
+    font-size: 45px;
+    line-height: 1;
+    transition: all 0.3s ease;
+    display: inline-block;
+}
+
+.feauture-one__single:hover .feauture-one__single-bottom .icon-box i.fas,
+.feauture-one__single:hover .feauture-one__single-bottom .icon-box i.fa {
+    color: var(--thm-white);
+}
+
+/* Why Choose Us Icons (About Page) */
+.why-choose-us-one__content ul li .inner .icon-box i.fas,
+.why-choose-us-one__content ul li .inner .icon-box i.fa {
+    color: var(--thm-black);
+    font-size: 40px;
+    line-height: 1;
+    transition: all 0.3s ease;
+    display: inline-block;
+}
+
+.why-choose-us-one__content ul li:hover .inner .icon-box i.fas,
+.why-choose-us-one__content ul li:hover .inner .icon-box i.fa {
+    color: var(--thm-primary);
+    transform: scale(0.9);
+}
+
+/* Service One Icons (About Page) */
+.service-one__single-inner .icon-box i.fas,
+.service-one__single-inner .icon-box i.fa {
+    color: var(--thm-white);
+    font-size: 50px;
+    line-height: 1;
+    transition: all 0.3s ease;
+    display: inline-block;
+}
+
+.service-one__single:hover .service-one__single-inner .icon-box i.fas,
+.service-one__single:hover .service-one__single-inner .icon-box i.fa {
+    color: var(--thm-primary);
+    transform: scale(0.9);
+}
+
+/* Testimonials/Slider Icons (TestimonialSlider4) */
+.testimonials-two__single-top .icon-box i.fas,
+.testimonials-two__single-top .icon-box i.fa {
+    color: #737373;
+    font-size: 60px;
+    line-height: 1;
+    transition: all 0.3s ease;
+    display: inline-block;
+}
+
+.testimonials-two__single:hover .testimonials-two__single-top .icon-box i.fas,
+.testimonials-two__single:hover .testimonials-two__single-top .icon-box i.fa {
+    color: var(--thm-primary);
+}
+
+/* Contact Page Icons */
+.contact-page__top-content-bottom ul li .inner .icon-box i.fas,
+.contact-page__top-content-bottom ul li .inner .icon-box i.fa {
+    color: var(--thm-white);
+    font-size: 30px;
+    line-height: 1;
+    transition: all 0.3s ease;
+    display: inline-block;
+}
+
+/* Pricing/Process Icons */
+.pricing-one__single .table-header-top .icon-box i.fas,
+.pricing-one__single .table-header-top .icon-box i.fa {
+    font-size: 60px;
+    line-height: 1;
+    transition: all 0.3s ease;
+    display: inline-block;
+}
+
+.pricing-one__single .table-header-top {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.pricing-one__single .table-header-top .icon-box {
+    position: relative;
+    display: block;
+}
+
+.pricing-one__single .table-header-top .icon-box i.fas,
+.pricing-one__single .table-header-top .icon-box i.fa {
+    color: var(--thm-primary);
+}
+
+/* Center the table header content */
+.pricing-one__single .table-header {
+    text-align: center;
+}
+
+.pricing-one__single .table-header h2 {
+    text-align: center;
+}
+
+.pricing-one__single .table-header p {
+    text-align: center;
+}
+
+/* General Font Awesome Icon Sizing for Template */
+.icon-box i.fas,
+.icon-box i.fa {
+    line-height: 1;
+    vertical-align: middle;
+}
+
+/* Match icomoon icon rendering */
+[class^="icon-"] i.fas,
+[class*=" icon-"] i.fas,
+[class^="icon-"] i.fa,
+[class*=" icon-"] i.fa {
+    font-family: 'Font Awesome 6 Free';
+    font-weight: 900;
+}
+
