@@ -18,10 +18,7 @@ export default function Footer1() {
                                     </div>
 
                                     <div className="footer-widget__about-inner">
-                                        <div className="text-box">
-                                            <p>Elegant, functional interiors—turnkey fit-out in Abu Dhabi.</p>
-                                            <p>Address: Abu Dhabi, United Arab Emirates</p>
-                                            <p>Hours: Sun–Thu, 9:00–18:00</p>
+                                        <div className="text-box">Svelte Contracting L.L.C specializes in interior design and fit-out solutions across Abu Dhabi, delivering elegant, functional, and sustainable spaces with precision craftsmanship and innovative design excellence.
                                         </div>
                                         <div className="footer-social-link">
                                             <Link href="#">Ln</Link>
