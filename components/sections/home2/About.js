@@ -1,11 +1,8 @@
 'use client'
-import { useState } from 'react'
-import ModalVideo from 'react-modal-video'
 import React from 'react';
 import Link from "next/link"
 
 export default function About() {
-    const [isOpen, setOpen] = useState(false)
     return (
         <> 
 
@@ -20,15 +17,6 @@ export default function About() {
                                 data-wow-duration="1500ms">
                                 <div className="inner">
                                     <img src="assets/img/about/about-v2-img1.jpg" alt=""/>
-                                </div>
-                            </div>
-                            <div className="about-two__img2 wow fadeInRight" data-wow-delay="200ms"
-                                data-wow-duration="1500ms">
-                                <img src="assets/img/about/about-v2-img2.jpg" alt=""/>
-                                <div className="about-two__video-btn">
-                                    <a onClick={() => setOpen(true)} className="about-two__icon video-popup">
-                                        <span className="icon-play-button-1"></span>
-                                    </a>
                                 </div>
                             </div>
                         </div>
@@ -83,8 +71,6 @@ and finished on schedule.</p>
             </div>
         </section>
         {/*End About Two */}
-        <ModalVideo channel='youtube' autoplay isOpen={isOpen} videoId="vfhzo499OeA" onClose={() => setOpen(false)} />
-
         </>
     )
 }

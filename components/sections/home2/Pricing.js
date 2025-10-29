@@ -118,7 +118,7 @@ export default function Cta() {
                                             </div>
 
                                             <div className="text-box">
-                                                <p>Detailed layouts and 3D visuals</p>
+                                                <p>Detailed layouts, concepts and 3D visuals</p>
                                             </div>
                                         </li>
 
@@ -128,7 +128,7 @@ export default function Cta() {
                                             </div>
 
                                             <div className="text-box">
-                                                <p>Materials and finishes selection</p>
+                                                <p>Quality Materials and finishes selection</p>
                                             </div>
                                         </li>
 

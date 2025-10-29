@@ -15,7 +15,7 @@ export default function Action() {
                         <h2>Have a Project in Your Mind</h2>
                         <h3>Don’t Hesitate to Say Hello </h3>
                         <div className="btn-box">
-                            <a className="thm-btn" href="#">
+                            <a className="thm-btn" href="/contact">
                                 <span className="txt">LET’S TALK WITH US</span>
                             </a>
                         </div>

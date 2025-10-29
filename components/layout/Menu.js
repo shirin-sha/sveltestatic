@@ -67,13 +67,13 @@ export default function Menu() {
                 <li><Link href="/contact">Contact</Link></li>
             </ul> */}
                                     <ul className="navigation">
-                                        <li className="active menu-item-has-children"><Link href="/">Home</Link> </li>
-                                        <li><Link href="/about">About</Link></li>
-                                        <li><Link href="/service">Services</Link></li>
-                                        <li><Link href="/blog">Blog</Link></li>
-                                        <li><Link href="/projects">Projects</Link></li>
-                                        <li><Link href="/clients">Clients</Link></li>
-                                        <li><Link href="/contact">Contact</Link></li>
+                                        <li className="active menu-item-has-children"><Link href="/">HOME</Link> </li>
+                                        <li><Link href="/about">ABOUT</Link></li>
+                                        <li><Link href="/service">SERVICES</Link></li>
+                                        <li><Link href="/blog">BLOG</Link></li>
+                                        <li><Link href="/projects">PROJECTS</Link></li>
+                                        <li><Link href="/clients">CLIENTS</Link></li>
+                                        <li><Link href="/contact">CONTACT</Link></li>
                                    
                                     </ul>
         </>

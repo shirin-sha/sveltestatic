@@ -29,12 +29,12 @@ export default function Services() {
                                 <i className="fas fa-compass-drafting"></i>
                             </div>
                             <div className="service-two__single-text">
-                                <h2><Link href="/services/design-build-fit-out">Design & Build Fit-Out</Link></h2>
+                                <h2><Link href="/services/design-build-fit-out">Design & Build Fit-Out Solutions</Link></h2>
                                 <p>Concept to completion for offices, retail, F&B and residential interiors.</p>
                             </div>
 
                             <div className="btn-box">
-                                <Link href="/services/design-build-fit-out">EXPLORE SERVICE</Link>
+                                <Link href="/services/design-build-fit-out">LEARN MORE</Link>
                             </div>
                         </div>
                     </div>
@@ -55,7 +55,7 @@ export default function Services() {
                             </div>
 
                             <div className="btn-box">
-                                <Link href="/services/project-management">EXPLORE SERVICE</Link>
+                                <Link href="/services/project-management">LEARN MORE</Link>
                             </div>
                         </div>
                     </div>
@@ -76,7 +76,7 @@ export default function Services() {
                             </div>
 
                             <div className="btn-box">
-                                <Link href="/services/joinery-carpentry">EXPLORE SERVICE</Link>
+                                <Link href="/services/joinery-carpentry">LEARN MORE</Link>
                             </div>
                         </div>
                     </div>
@@ -97,7 +97,7 @@ export default function Services() {
                             </div>
 
                             <div className="btn-box">
-                                <Link href="/services/mep-lighting">EXPLORE SERVICE</Link>
+                                <Link href="/services/mep-lighting">LEARN MORE</Link>
                             </div>
                         </div>
                     </div>
@@ -118,7 +118,7 @@ export default function Services() {
                             </div>
 
                             <div className="btn-box">
-                                <Link href="/services/renovation-refurbishment">EXPLORE SERVICE</Link>
+                                <Link href="/services/renovation-refurbishment">LEARN MORE</Link>
                             </div>
                         </div>
                     </div>
@@ -134,12 +134,14 @@ export default function Services() {
                                 <i className="fas fa-couch"></i>
                             </div>
                             <div className="service-two__single-text">
-                                <h2><Link href="/services/ffe-styling">FF&E and Styling</Link></h2>
-                                <p>Furniture, fixtures, window treatments and final styling for a flawless finish.</p>
+                                <h2><Link href="/services/ffe-styling">FF&E and Styling Services</Link></h2>
+                                <p>Furniture, fixtures, window treatments and final styling for a flawless finish
+and long lasting.
+</p>
                             </div>
 
                             <div className="btn-box">
-                                <Link href="/services/ffe-styling">EXPLORE SERVICE</Link>
+                                <Link href="/services/ffe-styling">LEARN MORE</Link>
                             </div>
                         </div>
                     </div>

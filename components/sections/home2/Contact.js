@@ -31,7 +31,7 @@ export default function Contact() {
             </div>
             <div className="contact-one__pattern" style={{backgroundImage: 'url(assets/img/pattern/contact-v1-pattern.jpg)'}}>
             </div>
-            <div className="contact-one__img"><img src="assets/img/resource/contact-v1-img1.png" alt=""/></div>
+          
             <div className="container clearfix">
                 <div className="contact-one__inner">
                     <div className="contact-one__form wow animated fadeInRight" data-wow-delay="0.1s">

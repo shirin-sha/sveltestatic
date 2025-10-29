@@ -58,13 +58,11 @@ export default function BrandSlider1() {
         <>
             <Swiper {...swiperOptions} className="thm-swiper__slider swiper-container">
                 <SwiperSlide className="swiper-slide">
-                    <div className="img-box">
+                
                         <img src="assets/img/brand/brand-v1-img1.png" alt="#"/>
-                    </div>
+                    
 
-                    <div className="img-box2">
-                        <img src="assets/img/brand/brand-v1-img1.png" alt="#"/>
-                    </div>
+                   
                 </SwiperSlide>
                 <SwiperSlide className="swiper-slide">
                     <div className="img-box">

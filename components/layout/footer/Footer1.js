@@ -23,16 +23,11 @@ export default function Footer1() {
                                             <p>Address: Abu Dhabi, United Arab Emirates</p>
                                             <p>Hours: Sun–Thu, 9:00–18:00</p>
                                         </div>
-                                        <div className="number-box">
-                                            <Link href="tel:+971XXXXXXXXX">Phone: +971 XX XXX XXXX</Link><br/>
-                                            <Link href="https://wa.me/971XXXXXXXXX">WhatsApp: +971 XX XXX XXXX</Link><br/>
-                                            <Link href="mailto:hello@sveltecontracting.ae">Email: hello@sveltecontracting.ae</Link>
-                                        </div>
                                         <div className="footer-social-link">
-                                            <Link href="#">LinkedIn</Link>
-                                            <Link href="#">Instagram</Link>
-                                            <Link href="#">Facebook</Link>
-                                            <Link href="#">Behance</Link>
+                                            <Link href="#">Ln</Link>
+                                            <Link href="#">In</Link>
+                                            <Link href="#">Fb</Link>
+                                            <Link href="#">Bh</Link>
                                         </div>
                                     </div>
                                 </div>
@@ -72,7 +67,7 @@ export default function Footer1() {
                                         <ul>
                                             <li><Link href="/get-quote">Get a Quote</Link></li>
                                             <li><Link href="/book-site-visit">Book a Site Visit</Link></li>
-                                            <li><Link href="/download-profile">Download Company Profile (PDF)</Link></li>
+                                            <li><Link href="/download-profile">Company Profile</Link></li>
                                             <li><Link href="/hse-policy">HSE Policy</Link></li>
                                             <li><Link href="/privacy-policy">Privacy Policy</Link></li>
                                             <li><Link href="/terms-of-use">Terms of Use</Link></li>
@@ -103,6 +98,11 @@ export default function Footer1() {
                                                 </button>
                                             </div>
                                         </form>
+                                        <div className="number-box" style={{marginTop: '20px'}}>
+                                            <Link href="tel:+971XXXXXXXXX">Phone: +971 XX XXX XXXX</Link><br/>
+                                            <Link href="https://wa.me/971XXXXXXXXX">WhatsApp: +971 XX XXX XXXX</Link><br/>
+                                            <Link href="mailto:hello@sveltecontracting.ae">Email: hello@sveltecontracting.ae</Link>
+                                        </div>
                                     </div>
                                 </div>
                             </div>

@@ -287,6 +287,9 @@
     display: block;
     margin-left: 20px;
     flex: 1;
+    font-size: 18px;
+    line-height: 26px;
+    font-weight: 700;
 }
 
 .about-one__content-bottom-author-box .author-info .signature-box img {
@@ -456,7 +459,6 @@
 .about-two__content-list {
     position: relative;
     display: block;
-    padding-left: 240px;
     margin-top: 45px;
 }
 
@@ -468,7 +470,7 @@
 .about-two__content-list ul li {
     position: relative;
     display: block;
-    max-width: 290px;
+    max-width: 376px;
     width: 100%;
     background: var(--thm-gray-bg);
     padding: 8px 20px 7px;
@@ -536,7 +538,6 @@
 .about-two__content-bottom .btn-box {
     position: relative;
     display: block;
-    margin-left: 110px;
 }
 
 

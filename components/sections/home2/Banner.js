@@ -68,7 +68,8 @@ export default function Banner() {
                                             </Link>
                                         </div>
                                         <div className="btn-two">
-                                            <a onClick={() => setOpen(true)} className="video-popup">
+                                            {/* <a onClick={() => setOpen(true)} className="video-popup"> */}
+                                            <a href="#">
                                                 <div className="main-slider-one__icon">
                                                     <i className="icon-play-button-1"></i>
                                                     <span>Watch Our Projects</span>
@@ -83,7 +84,7 @@ export default function Banner() {
                     {/*End Swiper Slide Single */}
                     {/* Start Swiper Slide Single*/}
                     <SwiperSlide  className="swiper-slide">
-                        <div className="image-layer" style={{backgroundImage: 'url(assets/img/slider/slider-v2-img1.jpg)'}}></div>
+                        <div className="image-layer" style={{backgroundImage: 'url(assets/img/slider/slider-v2-img2.jpg)'}}></div>
                         <div className="main-slider-two__pattern"
                             style={{backgroundImage: 'url(assets/img/pattern/main-slider-v2-pattern.png)'}}></div>
 
@@ -110,7 +111,7 @@ export default function Banner() {
                                             </Link>
                                         </div>
                                         <div className="btn-two">
-                                            <a onClick={() => setOpen(true)} className="video-popup">
+                                            <a href="#">
                                                 <div className="main-slider-one__icon">
                                                     <i className="icon-play-button-1"></i>
                                                     <span>See Our Process</span>

@@ -65,7 +65,7 @@ export default function BrandSlider2() {
                         </div>
 
                         <div className="img-box2">
-                            <img src="assets/img/brand/brand-v2-img6.png" alt="#"/>
+                        <img src="assets/img/brand/brand-v2-img1.png" alt="#"/>
                         </div>
                     </SwiperSlide>
 
@@ -75,7 +75,7 @@ export default function BrandSlider2() {
                         </div>
 
                         <div className="img-box2">
-                            <img src="assets/img/brand/brand-v2-img7.png" alt="#"/>
+                            <img src="assets/img/brand/brand-v2-img2.png" alt="#"/>
                         </div>
                     </SwiperSlide>
 
@@ -85,7 +85,7 @@ export default function BrandSlider2() {
                         </div>
 
                         <div className="img-box2">
-                            <img src="assets/img/brand/brand-v2-img8.png" alt="#"/>
+                            <img src="assets/img/brand/brand-v2-img3.png" alt="#"/>
                         </div>
                     </SwiperSlide>
 
@@ -95,7 +95,7 @@ export default function BrandSlider2() {
                         </div>
 
                         <div className="img-box2">
-                            <img src="assets/img/brand/brand-v2-img9.png" alt="#"/>
+                            <img src="assets/img/brand/brand-v2-img4.png" alt="#"/>
                         </div>
                     </SwiperSlide>
 
@@ -105,13 +105,13 @@ export default function BrandSlider2() {
                         </div>
 
                         <div className="img-box2">
-                            <img src="assets/img/brand/brand-v2-img10.png" alt="#"/>
+                            <img src="assets/img/brand/brand-v2-img5.png" alt="#"/>
                         </div>
                     </SwiperSlide>
 
                     <SwiperSlide className="swiper-slide">
                         <div className="img-box">
-                            <img src="assets/img/brand/brand-v2-img1.png" alt="#"/>
+                            <img src="assets/img/brand/brand-v2-img6.png" alt="#"/>
                         </div>
 
                         <div className="img-box2">
@@ -119,45 +119,6 @@ export default function BrandSlider2() {
                         </div>
                     </SwiperSlide>
 
-                    <SwiperSlide className="swiper-slide">
-                        <div className="img-box">
-                            <img src="assets/img/brand/brand-v2-img2.png" alt="#"/>
-                        </div>
-
-                        <div className="img-box2">
-                            <img src="assets/img/brand/brand-v2-img7.png" alt="#"/>
-                        </div>
-                    </SwiperSlide>
-
-                    <SwiperSlide className="swiper-slide">
-                        <div className="img-box">
-                            <img src="assets/img/brand/brand-v2-img3.png" alt="#"/>
-                        </div>
-
-                        <div className="img-box2">
-                            <img src="assets/img/brand/brand-v2-img8.png" alt="#"/>
-                        </div>
-                    </SwiperSlide>
-
-                    <SwiperSlide className="swiper-slide">
-                        <div className="img-box">
-                            <img src="assets/img/brand/brand-v2-img4.png" alt="#"/>
-                        </div>
-
-                        <div className="img-box2">
-                            <img src="assets/img/brand/brand-v2-img9.png" alt="#"/>
-                        </div>
-                    </SwiperSlide>
-
-                    <SwiperSlide className="swiper-slide">
-                        <div className="img-box">
-                            <img src="assets/img/brand/brand-v2-img5.png" alt="#"/>
-                        </div>
-
-                        <div className="img-box2">
-                            <img src="assets/img/brand/brand-v2-img10.png" alt="#"/>
-                        </div>
-                    </SwiperSlide>
                 </div>
             </Swiper>
         </>

@@ -28,7 +28,7 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu, isSide
                                   
                                         <div className="btn-box">
                                             <a className="thm-btn" href="#">
-                                                <span className="txt">Discover More</span>
+                                                <span className="txt">Svelte Profile</span>
                                             </a>
                                         </div>
                                     </div>

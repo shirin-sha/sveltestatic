@@ -22,19 +22,7 @@ export default function Home() {
                                     <div className="inner">
                                         <img src="assets/img/about/about-v1-img1.jpg" alt=""/>
                                     </div>
-                                    <div className="experience-box">
-                                        <div className="counter-box">
-                                            <h2 className="count">
-                                                <CounterUp end={20} />
-                                            </h2>
-                                            
-                                        </div>
-                                        <div className="text-box">
-                                            <p>Years of  <br/>
-                                            Combined  <br/>
-                                                EXPERIENCE</p>
-                                        </div>
-                                    </div>
+                                 
                                 </div>
                             </div>
                             {/*End About One Img */}
@@ -90,17 +78,13 @@ export default function Home() {
                                             </div>
 
                                             <div className="author-info">
-                                                <div className="img-box">
-                                                    <img src="assets/img/about/about-v1-img2.jpg" alt=""/>
-                                                </div>
+                                              
                                                 <div className="signature-box">
-                                                    <p>20+ Years of Combined Experience</p>
+                                                    <p style={{fontSize: '18px', lineHeight: '26px', fontWeight: '700',color:'#11161f'}}>Have a project in mind?<br/> Call us:<Link href="tel:+971XXXXXXXXX">+971 XX XXX XXXX</Link></p>
                                                 </div>
                                             </div>
                                         </div>
-                                        <div className="text">
-                                            <h4>Have a project in mind? Call us: <Link href="tel:+971XXXXXXXXX">+971 XX XXX XXXX</Link></h4>
-                                        </div>
+                                     
                                     </div>
                                 </div>
                             </div>

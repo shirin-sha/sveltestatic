@@ -19,7 +19,7 @@ export default function Features() {
 
                                 <div className="feauture-one__single-bottom">
                                     <div className="btn-box">
-                                        <a href="#"><span className="icon-plus"></span></a>
+                                        <a href="/about"><span className="icon-plus"></span></a>
                                     </div>
 
                                     <div className="icon-box">
@@ -40,7 +40,7 @@ export default function Features() {
 
                                 <div className="feauture-one__single-bottom">
                                     <div className="btn-box">
-                                        <a href="#"><span className="icon-plus"></span></a>
+                                        <a href="service"><span className="icon-plus"></span></a>
                                     </div>
 
                                     <div className="icon-box">
@@ -56,12 +56,12 @@ export default function Features() {
                             <div className="feauture-one__single">
                                 <div className="feauture-one__single-text">
                                     <p>On-Time Delivery</p>
-                                    <h2><a href="#">Clear schedules, proactive management, zero surprises.</a></h2>
+                                    <h2><a href="#">Clear schedules, proactive, zero surprises.</a></h2>
                                 </div>
 
                                 <div className="feauture-one__single-bottom">
                                     <div className="btn-box">
-                                        <a href="#"><span className="icon-plus"></span></a>
+                                        <a href="projects"><span className="icon-plus"></span></a>
                                     </div>
 
                                     <div className="icon-box">
