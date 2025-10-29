@@ -6,7 +6,7 @@ import "swiper/css/pagination"
 import 'swiper/css/free-mode';
 import { dM_Sans, } from '@/lib/font'
 export const metadata = {
-    title: 'SVELTE INTERIORS',
+    title: 'SVELTE CONTRACTING LLC',
     description: '',
 }
 

@@ -98,11 +98,6 @@ export default function Footer1() {
                                                 </button>
                                             </div>
                                         </form>
-                                        <div className="number-box" style={{marginTop: '20px'}}>
-                                            <Link href="tel:+971XXXXXXXXX">Phone: +971 XX XXX XXXX</Link><br/>
-                                            <Link href="https://wa.me/971XXXXXXXXX">WhatsApp: +971 XX XXX XXXX</Link><br/>
-                                            <Link href="mailto:hello@sveltecontracting.ae">Email: hello@sveltecontracting.ae</Link>
-                                        </div>
                                     </div>
                                 </div>
                             </div>
