@@ -58,7 +58,7 @@ and finished on schedule.</p>
                             <div className="about-two__content-bottom">
                               
 
-                                <div className="btn-box">
+                                <div className="btn-box" style={{marginTop: '-15px'}}>
                                     <Link className="thm-btn" href="/about">
                                         <span className="txt">Discover More</span>
                                     </Link>
